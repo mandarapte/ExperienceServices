@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+
+# Swift Package Manager
+/.build
+/Packages
+*.xcodeproj
+.swiftpm/
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+Package.resolved
+
+# Xcode
+xcuserdata/
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxuser
+
+# Build
+build/
+
+# Secrets
+.netrc
+*.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Documentation
+docs/
+.jazzy.yaml
+
+# Misc
+*.log
+*.tmp

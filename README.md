@@ -18,7 +18,7 @@
 
 ## Features
 
-- Swift Property Extensions for Array, Double, Int, NSLayouTProperty, String, UIColor, UIDevice, UIImage, UIScreen, UIStackView, UIViewController
+- Swift Property Extensions for Array, Double, Int, NSLayoutConstraint, String, UIColor, UIDevice, UIImage, UIScreen, UIStackView, UIViewController
 - Xcode and Swift Helpers and Utilities
 - Time Saver Code Samples to Use, Reuse and Share Between Xcode Projects
 
